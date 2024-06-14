@@ -1,0 +1,4 @@
+Read about error handling in node.js.
+write code.
+Attend classes on time.
+Apply for internships.
